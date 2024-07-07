@@ -1,6 +1,6 @@
 ﻿namespace AlgoVisualizationProject
 {
-    abstract partial class AlgoForm : Form
+     partial class AlgoForm : Form
     {
         protected System.ComponentModel.IContainer components = null;
         protected GraphVisualizer graphVisualizer;
